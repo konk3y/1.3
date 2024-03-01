@@ -250,12 +250,14 @@ body {
     .footer__next,
     .footer__text{
         width: 490px;
+        padding-left: 40px;
     }
     .footer__img{
         width: 532px;
         height: 307px;
         padding-top: 24px;
         border-radius: 30px;
+        padding-right: 40px;
     }
 
 /* Разобраться с текстом */
